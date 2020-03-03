@@ -6,7 +6,7 @@
 #Disclaimer. Continues for yes, quits for no.
 echo "========================================="
 echo "==           TANGO Installer           =="
-echo "==       Ubuntu 5.3.0-40-generic		 =="
+echo "==       Ubuntu 5.3.0-40-generic	     =="
 echo "==               |\ |\                 =="
 echo "==               \ \| |                =="
 echo "==                \ | |                =="
